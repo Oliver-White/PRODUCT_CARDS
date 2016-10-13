@@ -1,0 +1,77 @@
+#camp {
+	width: 30%;
+	border: 1px solid lightblue;
+}
+
+#camp img {
+	width:80%;
+	height: 80%;
+	margin-left: 10%;
+}
+
+#camp h2 {
+	text-align: center;
+	border: 1px dotted lightgray;
+}
+
+#success {
+	width: 30%;
+	border: 1px solid lightblue
+}
+
+#success img {
+	width:80%;
+	height: 80%;
+	margin-left: 10%;
+}
+
+#success h2 {
+	text-align: center;
+}
+
+#nashville {
+	width: 30%;
+	border: 1px solid lightblue
+}
+
+#nashville img {
+	width:80%;
+	height: 80%;
+	margin-left: 10%;
+}
+
+#nashville h2 {
+	text-align: center;
+}
+
+.available {
+	background-color: gray;
+	color: yellow;
+}
+
+.bold p {
+	font-weight: 800;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
